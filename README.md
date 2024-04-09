@@ -11,7 +11,9 @@ Instalar Python: Si no tienes Python instalado, descárgalo desde python.org e i
 Instalar biblioteca mysql-connector-python: Abre tu terminal o símbolo del sistema y ejecuta el siguiente comando:
 
 Copy code
-* pip install mysql-connector-python *
+* pip install mysql-connector-python
+
+  
 Configurar el servidor MySQL: Asegúrate de tener un servidor MySQL en tu máquina. Puedes usar XAMPP u otro software de servidor MySQL. Configura tu base de datos y asegúrate de tener las credenciales de acceso listas.
 
 Clonar el repositorio o descargar el código: Clona este repositorio o descarga el código fuente en tu sistema.
